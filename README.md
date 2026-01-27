@@ -16,4 +16,4 @@ Projetos neste repositório:
 * **Gestão de Energia:** Simulação de reset de hardware de 60 segundos.
 
 "Se programar é prever o erro e agir...
- Continuarei errando, continuarei a agir ..."
+ Continuarei errando, continuarei agindo ..."
