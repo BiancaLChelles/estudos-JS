@@ -15,4 +15,5 @@ O que já dominei até aqui:
 * **Controle de Acesso:** Lógica combinada para permissões de entrada.
 * **Gestão de Energia:** Simulação de reset de hardware de 60 segundos.
 
- |"Se programar é prever o erro e agir, continuarei errando, continuarei agindo. "| 
+ "Se programar é prever o erro e agir, continuarei errando, continuarei agindo. " 
+ "..."
