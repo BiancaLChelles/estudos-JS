@@ -10,10 +10,10 @@ O que já dominei até aqui:
 * **Resolução de Problemas (Hardware):** Aplicação de lógica para reset de hardware e gerenciamento de energia.
 * **Pensamento Computacional:** Conexão entre a investigação técnica e meus conhecimentos em Pedagogia.
 
- Projetos neste repositório:
+Projetos neste repositório: 
 * **Simulador de RPG:** Atribuição de classes baseada em sorteio de dados.
 * **Controle de Acesso:** Lógica combinada para permissões de entrada.
 * **Gestão de Energia:** Simulação de reset de hardware de 60 segundos.
 
- "Se programar é prever o erro e agir...
- Continuarei errando, continuarei agindo..."
+"Se programar é prever o erro e agir...
+ Continuarei errando, continuarei agindo ..."
