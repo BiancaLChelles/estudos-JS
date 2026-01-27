@@ -1,6 +1,7 @@
 # Registros no JavaScript 
 
 Este repositório registra minha evolução na lógica de programação e domínio técnico do JavaScript.
+
 Aqui, busco entender o 'porquê' das coisas em vez de apenas decorar comandos.
 
 ###  O que já dominei até aqui:
