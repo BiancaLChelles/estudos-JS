@@ -2,7 +2,7 @@
 
 Este repositório registra minha evolução na lógica de programação e domínio técnico do JavaScript. Aqui, busco entender o 'porquê' das coisas em vez de apenas decorar comandos. 
 
-Minha jornada é marcada pela curiosidade de saber como tudo funciona, desde a hierarquia da BIOS até a última linha de um loop.
+Minha jornada é marcada pela curiosidade de entender como tudo funciona, desde o comportamento do hardware até a lógica por trás de cada linha de um código.
 
 ###  O que já dominei até aqui:
 * **Lógica e Condicionais:** Uso de `if/else`, operadores de comparação e lógica booleana (`&&`, `||`, `!`).
@@ -34,7 +34,7 @@ Cada arquivo aqui não é apenas um exercício, mas a demonstração de uma comp
 
 ---
 
-###  Meu Diferencial Investigativo
+###  Diferencial 
 Mais do que código, meu diferencial é a **transposição de conhecimentos**:
 
 1. **Visão Pedagógica:** Aplico clareza didática na estruturação de funções e nomes de variáveis, facilitando a manutenção do código por outros desenvolvedores.
