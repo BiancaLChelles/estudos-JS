@@ -32,7 +32,9 @@ Cada arquivo aqui não é apenas um exercício, mas a demonstração de uma comp
    Uso da propriedade `.length` para garantir que o código seja dinâmico e funcione com qualquer volume de dados sem ajustes manuais.
 * **Classificador de Clima (Tratamento de Dados e Fallback)**
    Lógica de sensores e tratamento de exceções. Implementei o caso `else` para garantir que o sistema nunca fique sem resposta diante de entradas inesperadas.
-
+* **Monitor de Saúde da Bateria (Escopo e Diagnóstico de Hardware)**
+   Demonstração de domínio sobre o escopo de variáveis e a criação de funções de diagnóstico. Transformei um problema real de hardware (inspirado no meu Lenovo Ideapad S145) em um script funcional que categoriza o desgaste da bateria e orienta o usuário sobre calibração ou substituição.
+   
 ---
 
 ###  Diferencial 
