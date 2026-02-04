@@ -14,12 +14,13 @@ function mediaDosNumeros(arrayNumeros) {
 // Pega o valor atual da soma e adiciona o número da posição atual do array
         soma = soma + arrayNumeros[index];
     }
-
-    // A média só pode ser calculada APÓS o loop terminar de somar tudo
+    // A média fica fora do loop, porque só pode ser calculada APÓS o loop terminar de somar tudo.
     media = soma / arrayNumeros.length;
 
+    // Aqui a gente 'grita' a média pra fora da função
     return media;
+    
 }
 
-// Exibição do resultado
+// Aqui chamamos a função e fazemos a exibição do resultado junto de uma mensagem em string
 console.log("A média dos números informados é: " + mediaDosNumeros(arrayNumeros));
