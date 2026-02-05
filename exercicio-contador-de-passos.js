@@ -1,4 +1,4 @@
-// Inicializa a variável de controle do nível
+// Aqui criamos a variável de controle do nível
 
 let nivel;
 
@@ -15,6 +15,8 @@ for (let passos = 1; passos <= 30; passos++) {
         nivel = 'Dificil';
     } else {
         nivel = 'Não identificado';
+        // aqui previnimos que um erro de uso cause um erro no código
+        // considerando qualquer coisa diferente de 1 á 30 passos como 'não identificado'
     }
 
     // Exibe o status atualizado a cada iteração
