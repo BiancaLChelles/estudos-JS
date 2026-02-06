@@ -25,9 +25,9 @@ function analisarDesempenho(aluno, nota, presenca) {
         resultado = "Em situação indefinida";
     }
 
-    // Retorna o texto final usando as variáveis processadas
+    // Aqui a função retorna o texto final usando as variáveis processadas
     return "O (a) Aluno(a) " + aluno + ", está " + resultado + ".";
 }
 
-// Execução e exibição
+// Aqui chamamos a execução da função e exibição do 'return'
 console.log(analisarDesempenho(aluno, nota, presenca));
